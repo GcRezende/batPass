@@ -25,8 +25,7 @@ export const styles = StyleSheet.create({
     inputContainer:
     {
       width:'75%',
-      borderColor: 'white',
-      borderWidth: 2,
+      
     }
   });
   

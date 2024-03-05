@@ -18,8 +18,9 @@ export function Home() {
         </View>
         <View style={styles.inputContainer}>
             <BatTextInput/>
-            <BatButton/>
+            
         </View>
+        <BatButton/>
        <StatusBar style="light"/>
     </View>
   );
