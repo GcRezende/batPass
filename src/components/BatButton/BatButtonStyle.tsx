@@ -5,21 +5,21 @@ export const styles = StyleSheet.create({
   {
 
     alignItems:'center',
-    width: '100%',
+    width: '81%',
     justifyContent:'center',
     paddingVertical:13,
     paddingHorizontal:27,
-    margin:7,
+    elevation:3,
     color:'black',
-    alignContent:'center',
     borderRadius: 7,
+    backgroundColor:"white",
+    margin:4,
   },
 
   text:
   {
     margin:6,
-    fontSize: 27,
-    backgroundColor: '#BBCCCC',
+    fontSize: 20,
     lineHeight: 21,
     letterSpacing: 0.27,
 

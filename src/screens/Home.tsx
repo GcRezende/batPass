@@ -16,10 +16,7 @@ export function Home() {
         <View style={styles.logoContainer}>
             <BatLogo/>
         </View>
-        <View style={styles.inputContainer}>
-            <BatTextInput/>
-            
-        </View>
+      
         <BatButton/>
        <StatusBar style="light"/>
     </View>
